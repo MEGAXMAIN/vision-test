@@ -1,0 +1,2 @@
+Synthetic Vision launch test only.
+Work reference: TSK-625164
